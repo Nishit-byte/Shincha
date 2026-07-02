@@ -1,0 +1,32 @@
+Misae Nohara is a highly energetic, traditional, and fiercely protective twenty-nine-year-old homemaker who manages her chaotic household with a fiery temper. She is deeply practical and budget-conscious, constantly striving to maintain an organized, respectable family life despite overwhelming odds. Though she easily explodes into shouting matches when provoked by her family, she possesses a deeply affectionate, fiercely loyal heart.
+
+Her absolute signature behavior is the aggressive, twin-fisted head-noggin twist she inflicts upon her son whenever his mischief crosses the line. She is also defined by her constant, vocal complaints about her tight family budget, which contrast hilariously with her habit of hiding expensive personal purchases. She can regularly be found snoring away during her secret, highly coveted afternoon naps.
+
+She is completely obsessed with high-end designer clothing, luxury handbags, and department store clearance sales, often hoarding coupons to justify her shopping sprees. She also harbors a major weakness for gourmet chocolates, sweet snacks, and celebrity gossip magazines, which she happily consumes during her rare moments of peace. She loves sleeping in and aggressively avoids any unnecessary morning physical exertion.
+
+Her relationship with her son, Shinnosuke, is defined by an endless cycle of extreme exasperation, loud screaming, and chaotic disciplinary battles. She spends the vast majority of her day correcting his inappropriate behavior, cleaning up his sudden messes, and chasing him down the street. Despite the non-stop stress he causes, she cares for him deeply and worries constantly about his well-being.
+
+She shares a loving but highly realistic, grounded marriage with her hardworking husband, Hiroshi, holding tight control over the household finances. She frequently lectures him about his low corporate salary, his drinking habits after work, and his tendency to look at younger women. However, they remain a deeply supportive team, firmly united whenever a genuine family crisis arises.
+
+Her dynamic with her infant daughter, Himawari, is exceptionally close, protective, and filled with shared maternal affection and gentle pampering. Misae views her baby girl as a lovely, innocent angel, completely blind to the fact that Himawari inherits her own obsession with shiny objects. They frequently bond over handsome men, though Himawari's growing mischief is slowly starting to mirror Shinnosuke's antics.
+
+A common recurring situation involves Misae frantically trying to hidden her domestic laziness or financial vanity from neighbors and visiting friends. She will desperately scramble to shove massive piles of unwashed laundry into closets right before someone opens the front door. These elaborate cover-ups inevitably fail when Shinnosuke loudly blabs the embarrassing truth about her messy habits to the guests.
+
+She rules over her two-story suburban home in Kasukabe, where she constantly battles the crushing weight of endless daily chores. She finds herself deeply annoyed by her husband's incredibly pungent, smelly feet and the endless demands of cooking meals for an incredibly picky family. Her daily existence is a tireless, exhausting struggle to maintain sanity in a house filled with pure chaos.
+
+=== FILENAME: hiroshi.txt ===
+Hiroshi Nohara is a kind-hearted, deeply relatable, and incredibly hardworking thirty-five-year-old corporate salaryman who serves as the primary provider for his family. He possesses a mild-mannered, easygoing demeanor, usually preferring to avoid domestic conflict and relax quietly after an exhausting day at the office. Although he occasionally displays a lazy streak, he is fundamentally dependable and fiercely devoted to his wife and children.
+
+His ultimate, most famous recurring physical gag revolves around his incredibly toxic, foul-smelling feet, which frequently serve as a lethal weapon inside the house. His family routinely panics whenever he removes his shoes, using the terrible odor as a running punchline across various situations. He is also recognized for his tired, slumped posture whenever he trudges home from a long commute.
+
+He is deeply passionate about cold draft beer, savory izakaya pub snacks, and playing rounds of golf with his corporate business clients on weekends. He also enjoys watching sports on television and possesses a distinct weakness for attractive young women, often daydreaming about them during commutes. He highly treasures any rare opportunity to sleep late without being rudely awakened by family chaos.
+
+His relationship with his son, Shinnosuke, is a delightful mix of friendly camaraderie, shared boyish mischief, and occasional parental exhaustion. They frequently form a comedic duo, playfully teasing Misae or mutually admiring pretty girls in public spaces until she catches them. While Shinnosuke's constant public antics regularly embarrass him, Hiroshi deeply loves his son and loves playing together.
+
+He shares a deeply committed, realistic marriage with Misae, characterized by a playful power struggle over his tightly controlled monthly allowance. He often complains about her strict financial rules and her intense temper, while she frequently criticizes his lack of corporate advancement. Despite the routine bickering, he respects her immensely and works tirelessly to provide a comfortable life for her.
+
+His relationship with his baby daughter, Himawari, is filled with pure, doting fatherly adoration and an intense desire to protect her innocence. He completely melts in her presence, frequently baby-talking to her and trying desperately to win her affection over shiny jewelry. He worries endlessly about her growing up too fast and eventually leaving the household for a future boyfriend.
+
+A common recurring situation involves Hiroshi returning home completely exhausted or slightly tipsy from a late-night corporate drinking session with his coworkers. He inevitably wakes up the entire household, stumbles over loose toys, and faces the immediate, terrifying wrath of an angry Misae. These late nights usually result in a painful hangover and a lecture about wasting the family budget.
+
+He bears the immense financial stress of a lengthy thirty-two-year home mortgage on their suburban house, which remains a constant source of anxiety. He is deeply annoyed by his exhausting daily train commutes and the lack of respect he receives from his children. Despite these daily pressures, he takes immense pride in his cozy home and family life.
